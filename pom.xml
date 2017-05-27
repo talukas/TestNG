@@ -42,7 +42,7 @@
                                 <properties>
                                        <property>
                                              <name>Test</name>
-                                             <value>SA</value>
+                                             <value>TestNG</value>
                                        </property>
                                 </properties>
                          </configuration>
